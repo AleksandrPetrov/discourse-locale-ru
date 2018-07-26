@@ -945,6 +945,9 @@ ru:
         most_liked_users: "Фавориты"
         most_replied_to_users: "Самые активные собеседники"
         no_likes: "Пока ни одной симпатии."
+        top_categories: "Популярные Разделы"
+        topics: "Темы"
+        replies: "Сообщения"
       associated_accounts: "Связанные аккаунты"
       ip_address:
         title: "Последний IP адрес"
